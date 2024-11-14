@@ -14,3 +14,9 @@ There are 105 different species found in temperate conditions, while 121 species
 It was found that the most abundant species with the BIN number of BOLD:AAV0429, inhabited in Antarctica (extreme condition, Figure 2). In comparison to the map that shows the genetic distribution of all Tardigrada species (Figure 1), the majority of the species are found in Europe and the North American continent. This species is called Acutuncus antarcticus. The result in high abundance of such species, allow insight for future
 research to focus on the evolutionary adaptation that allows this species to thrive in such hard environment yet continues to be so abundant. By understanding the adaptation mechanism of this species, it might help to explain the mystery behind how Tardigrada is able to cope with harsh environments.
 The BOLD dataset used for this study contained various missing values, which significantly impact on the analysis and might have not provided the full story about Tardigrada. If this project was able to be done with combined datasets from another database system, one can provide more detailed and reliable proofs about the genetic diversity of Tardigrada.
+
+
+#References :
+Kasianchuk, N., Rzymski, P., & Kaczmarek, L. (2023). The biomedical potential of tardigrade proteins: A review. Biomedicine & Pharmacotherapy, 158, 114063. https://doi.org/https://doi.org/10.1016/j.biopha.2022.114063
+Møbjerg, N., & Neves, R. C. (2021). New insights into survival strategies of Tardigrades. Comparative Biochemistry and Physiology Part A: Molecular &amp; Integrative Physiology, 254, 110890. https://doi.org/10.1016/j.cbpa.2020.110890
+Singleton, A. L., Liu, M. H., Votzke, S., Yammine, A., & Gibert, J. P. (2021). Increasing temperature weakens the positive effect of genetic diversity on population growth. Ecology and Evolution, 11(24), 17810–17816. https://doi.org/10.1002/ece3.8335
